@@ -1,0 +1,16 @@
+----IN WORK VERSION
+
+A
+
+----CHANGES TO MAKE
+
+Battery switch traces/nets
+FC-145 32.7680KD-AC3 is obsolete, find replacement
+Change VS1053 from PA29
+Add connector for battery
+Cutouts on PCB for USB, Encoder, Display
+Remove JTAG
+MOLDABLE COVER
+ROTARY ENCODER FIX
+	
+----CHANGES MADE
