@@ -1,16 +1,28 @@
 ----IN WORK VERSION
 
-A
+PCB Version A0
+Case Version A0
 
 ----CHANGES TO MAKE
 
-Battery switch traces/nets
-FC-145 32.7680KD-AC3 is obsolete, find replacement
-Change VS1053 from PA29
-Add connector for battery
-Cutouts on PCB for USB, Encoder, Display
-Remove JTAG
-MOLDABLE COVER
-ROTARY ENCODER FIX
-	
+resistor values for display change
+resistor values for inputs change
+
 ----CHANGES MADE
+Remove JTAG
+Rename encoder nets
+Ground encoder common
+Bluetooth enable pin to digital IO
+Added Tab Holes for USB Connector
+Cutouts on PCB for Encoder
+Fix power nets
+Add battery solder pads
+
+----FUTURE CHANGES
+
+REMOVE RTC CRYSTAL?
+SMALLER MCU PACKAGE
+SMALLER SMD DISPLAY
+SMALLER ENCODER
+ENCODER POWER ON/OFF
+

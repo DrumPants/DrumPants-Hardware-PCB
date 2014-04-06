@@ -1,4 +1,6 @@
 *.pdf
+*.docx
+*.zip
 Docs/
 Records/
 Reference/
