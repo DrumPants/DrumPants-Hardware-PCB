@@ -22,9 +22,9 @@ Features
 Credits
 ==========================
 
-* Electrical Engineering and Design: Shaun Houlihan / Hedlabs
+* Electrical Engineering and Design: Shaun Houlihan / Hedlabs (http://www.hedlabs.com/)
 * Architecture and Firmware Engineering: Tyler Freeman / DrumPants
-* Industrial Design: John Sundermeyer / Pull Creative
+* Industrial Design: John Sundermeyer / Pull Creative (http://www.pullcreative.com)
 * Sensor Design and Manufacturing: Lei Yu / DrumPants
 
 Based on the Arduino Due
